@@ -1,0 +1,30 @@
+{
+  "name": "facetracking-for-artists",
+  "version": "0.1.0",
+  "description": "A simple implementation of BRFv4 and P5.js",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spelman7/FacetrackingForArtists"
+  },
+  "keywords": [
+    "facetracking",
+    "brfv4",
+    "p5"
+  ],
+  "license": "MIT"
+}

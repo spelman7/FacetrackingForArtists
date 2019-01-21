@@ -1,0 +1,8 @@
+{
+  "name": "Facetracking For Artists",
+  "description": "A simple implementation of BRFv4 and P5.js",
+  "repository": "https://github.com/spelman7/FacetrackingForArtists",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["facetracking", "brf4v", "p5"],
+  "image": "heroku/nodejs"
+}
