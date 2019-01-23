@@ -56,7 +56,7 @@ Darwin concluded that human facial expressions were basically universal. He outl
 
 This 'universality thesis' has [since been challenged](https://www.affective-science.org/pubs/2018/gendron-et-al-universality-cdps.pdf), but is more or less accepted among biologists and anthropologists.
 
-The most significant contributor to facial expression research since Darwin is probably [Paul Ekman](https://en.wikipedia.org/wiki/Paul_Ekman), who invented the [Facial Action Coding System](https://en.wikipedia.org/wiki/Facial_Action_Coding_System) (FACS).
+The most significant contributor to facial expression research since Darwin is probably [Paul Ekman](https://en.wikipedia.org/wiki/Paul_Ekman), who invented the [Facial Action Coding System](http://www.cs.cmu.edu/afs/cs/project/face/www/facs.htm) (FACS).
 
 Ekman wanted to break down facial expressions into component parts beyond the six major emotions. FACS was his attempt to map facial muscle movements to corresponding expressions.
 
